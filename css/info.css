@@ -1,0 +1,141 @@
+.info-section{
+    height: 100vh;
+    background-color: #90AE6E;
+
+}
+.title{
+    font-size: 70px;
+    position: absolute;
+    top: 123%;
+    left: 18%;
+    color: aliceblue;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.title2{
+    font-size: 70px;
+    position: absolute;
+    top: 130%;
+    left: 34%;
+    color: #1B470F;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+}
+
+.img_globo{
+    position: absolute;
+    top: 150%;
+    left: 14%;
+    width: 150px;
+    height: 150px;
+}
+.desc_globo{
+    color: aliceblue;
+    width: 750px;
+    font-size: 30px;
+    position: absolute;
+    top: 162%;
+    left: 01%;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.img_money{
+    position: absolute;
+    top: 150%;
+    left: 48%;
+    width: 150px;
+    height: 150px;
+
+}
+.desc_money{
+    color: aliceblue;
+    width: 650px;
+    font-size: 30px;
+    position: absolute;
+    top: 162%;
+    left: 37%;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+.img_comida{
+    position: absolute;
+    top: 150%;
+    left: 80%;
+    width: 150px;
+    height: 150px;
+
+}
+.desc_comida{
+    color: aliceblue;
+    width: 600px;
+    font-size: 30px;
+    position: absolute;
+    top: 162%;
+    left: 70%;
+    text-align: center;font-family: 'Nunito Sans', sans-serif;
+
+
+}
+
+.img_rosto{
+    position: absolute;
+    top: 178%;
+    left: 14%;
+    width: 150px;
+    height: 150px;
+
+}
+.desc_rosto{
+    color: aliceblue;
+    width: 750px;
+    font-size: 30px;
+    position: absolute;
+    top: 193%;
+    left: 01%;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+.img_planta{
+    position: absolute;
+    top: 178%;
+    left: 48%;
+    width: 150px;
+    height: 150px;
+
+}
+.desc_planta{
+    color: aliceblue;
+    width: 530px;
+    font-size: 30px;
+    position: absolute;
+    top: 193%;
+    left: 39%;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+.img_familia{
+    position: absolute;
+    top: 178%;
+    left: 80%;
+    width: 150px;
+    height: 150px;
+
+}
+.desc_familia{
+    color: aliceblue;
+    width: 530px;
+    font-size: 30px;
+    position: absolute;
+    top: 193%;
+    left: 71%;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+
+
+}

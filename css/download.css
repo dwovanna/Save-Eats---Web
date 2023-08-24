@@ -1,0 +1,88 @@
+.download-section{
+    height: 100vh;
+    background-color:#D5D5D5;
+
+}
+
+.circle_download{
+    background: #90AE6E;
+    border-radius: 50%;
+    width: 850px;
+    height: 850px;
+    position: absolute;
+    left: 07%;
+    top: 333%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgb(111, 112, 111), 
+            -5px 0 rgb(177, 178, 177);
+    
+}
+.img_celular{
+    width: 800px;
+    height: 800px;
+}
+.title_download{
+    font-size: 70px;
+    position: absolute;
+    top: 343%;
+    left: 57%;
+    color: #0A2503;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+}
+.desc_download{
+    color: #0A2503;
+    width: 750px;
+    font-size: 50px;
+    position: absolute;
+    top: 354%;
+    left: 55%;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.img_app{
+    position: absolute;
+    top: 378%;
+    left: 57%;
+    width: 280px;
+
+}
+.img_play{
+    position: absolute;
+    top: 378%;
+    left: 75%;
+    width: 280px;
+}
+
+.img_folha1{
+    position: absolute;
+    left: 07%;
+    top: 336%;
+    width: 230px;
+
+}
+.img_folha2{
+    position: absolute;
+    left: 04%;
+    top: 355%;
+    width: 150px;
+   
+
+}
+.img_folha3{
+    position: absolute;
+    left: -0.05%;
+    top: 378%;
+    width: 90px;
+   
+
+}
+.img_folha4{
+    position: absolute;
+    left: 38%;
+    top: 387%;
+    width: 105px;
+
+}

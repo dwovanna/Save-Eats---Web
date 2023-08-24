@@ -1,0 +1,82 @@
+.inicial{
+    height: 100vh;
+}
+.home{
+    position: absolute;
+    top: 05%;
+    left: 51%;
+    font-size: 35px;
+    color: #276D15;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.informacoes{
+    position: absolute;
+    top: 05%;
+    left: 60%;
+    font-size: 35px;
+    color: #276D15;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.sobrenos{
+    position: absolute;
+    top: 05%;
+    left: 72%;
+    font-size: 35px;
+    color: #276D15;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.contatos{
+    position: absolute;
+    top: 05%;
+    left: 83%;
+    font-size: 35px;
+    color: #276D15;
+    
+}
+.circle{
+    background: #90AE6E;
+    border-radius: 50%;
+    width: 850px;
+    height: 850px;
+    position: absolute;
+    left: 57%;
+    top: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.circle img{
+    background-color: #90AE6E;
+    width: 576px;
+}
+.titulo{
+    position: absolute;
+    color:#295F1B;
+    font-weight: 950;
+    font-size: 70px;
+    position: absolute;
+    top: 38%;
+    left: 07%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.subtitulo{
+    position: absolute;
+    color:#6E6E6E;
+    font-weight: bold;
+    font-size: 60px;
+    position: absolute;
+    top: 31%;
+    left: 15%;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+.descricao{
+    position: absolute;
+    top: 50%;
+    left: 04%;
+    width: 1070px;
+    text-align: center;
+    font-size: 40px;
+}

@@ -1,0 +1,129 @@
+.footer-section{
+  
+    height: 100vh;
+    background-color: #D5D5D5;
+
+}
+.title_footer{
+    font-size: 70px;
+    position: absolute;
+    top: 430%;
+    left: 09%;
+    color: #0A2503;
+    font-family: 'Nunito Sans', sans-serif;
+    width: 1800px;
+    text-align: center;
+}
+
+.circle_julia{
+    background: #90AE6E;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 07%;
+    top: 458%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgb(111, 112, 111), 
+            -5px 0 rgb(177, 178, 177);
+}
+.desc_julia{
+    position: absolute;
+    left: 09%;
+    top: 483%;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.desc_f1{
+    position: absolute;
+    left: 10.5%;
+    top: 487%;
+    font-size: 40px;
+}
+
+.circle_carol{
+    background: #90AE6E;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 30%;
+    top: 458%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgb(111, 112, 111), 
+            -5px 0 rgb(177, 178, 177);
+}
+.desc_carol{
+    position: absolute;
+    left: 32%;
+    top: 483%;
+    font-size: 40px;
+    font-weight: bold;
+}
+.desc_f2{
+    position: absolute;
+    left: 33.5%;
+    top: 487%;
+    font-size: 40px;
+}
+.circle_dwovanna{
+    background: #90AE6E;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 55%;
+    top: 458%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgb(111, 112, 111), 
+            -5px 0 rgb(177, 178, 177);
+}
+.desc_dwovanna{
+    position: absolute;
+    left: 56%;
+    top: 483%;
+    font-size: 40px;
+    font-weight: bold;
+}
+.desc_f3{
+    position: absolute;
+    left: 59%;
+    top: 487%;
+    font-size: 40px;
+}
+.circle_vinicius{
+    background: #90AE6E;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 80%;
+    top: 458%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgb(111, 112, 111), 
+            -5px 0 rgb(177, 178, 177);
+}
+
+
+.desc_vinicius{
+    position: absolute;
+    left: 80%;
+    top: 483%;
+    font-size: 40px;
+    font-weight: bold;
+}
+.desc_f4{
+    position: absolute;
+    left: 83%;
+    top: 487%;
+    font-size: 40px;
+}
