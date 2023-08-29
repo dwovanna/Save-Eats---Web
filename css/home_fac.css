@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+
+}
+.img_fundo{
+    width: 100%;
+    height: 100%;
+
+}
+header{
+    background-color: #90AE6E;
+    height: 80px;
+}
+.header2{
+    background-color: #ffff;
+    
+}

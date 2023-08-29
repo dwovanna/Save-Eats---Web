@@ -1,48 +1,20 @@
 .footer-section{
   
     height: 100vh;
-    background-color: #D5D5D5;
+    background-color: #ffffff;
 
 }
 .title_footer{
     font-size: 70px;
     position: absolute;
     top: 430%;
-    left: 09%;
+    left: 15%;
     color: #0A2503;
     font-family: 'Nunito Sans', sans-serif;
     width: 1800px;
     text-align: center;
 }
 
-.circle_julia{
-    background: #90AE6E;
-    border-radius: 50%;
-    width: 300px;
-    height: 300px;
-    position: absolute;
-    left: 07%;
-    top: 458%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-shadow: 5px 5px 10px rgb(111, 112, 111), 
-            -5px 0 rgb(177, 178, 177);
-}
-.desc_julia{
-    position: absolute;
-    left: 09%;
-    top: 483%;
-    font-size: 40px;
-    font-weight: bold;
-
-}
-.desc_f1{
-    position: absolute;
-    left: 10.5%;
-    top: 487%;
-    font-size: 40px;
-}
 
 .circle_carol{
     background: #90AE6E;
@@ -50,7 +22,7 @@
     width: 300px;
     height: 300px;
     position: absolute;
-    left: 30%;
+    left: 24%;
     top: 458%;
     display: flex;
     justify-content: center;
@@ -60,24 +32,26 @@
 }
 .desc_carol{
     position: absolute;
-    left: 32%;
+    left: 25%;
     top: 483%;
     font-size: 40px;
     font-weight: bold;
 }
 .desc_f2{
     position: absolute;
-    left: 33.5%;
+    left: 26%;
     top: 487%;
     font-size: 40px;
 }
+
+
 .circle_dwovanna{
     background: #90AE6E;
     border-radius: 50%;
     width: 300px;
     height: 300px;
     position: absolute;
-    left: 55%;
+    left: 44%;
     top: 458%;
     display: flex;
     justify-content: center;
@@ -87,24 +61,85 @@
 }
 .desc_dwovanna{
     position: absolute;
-    left: 56%;
+    left: 44%;
     top: 483%;
     font-size: 40px;
     font-weight: bold;
 }
 .desc_f3{
     position: absolute;
-    left: 59%;
+    left: 46.5%;
     top: 487%;
     font-size: 40px;
 }
+
+.circle_julia{
+    background: #90AE6E;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 05%;
+    top: 458%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgb(111, 112, 111), 
+            -5px 0 rgb(177, 178, 177);
+}
+.desc_julia{
+    position: absolute;
+    left: 06%;
+    top: 483%;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.desc_f1{
+    position: absolute;
+    left: 07.5%;
+    top: 487%;
+    font-size: 40px;
+}
+
+
+.circle_oswaldo{
+    background: #90AE6E;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 83%;
+    top: 458%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgb(111, 112, 111), 
+            -5px 0 rgb(177, 178, 177);
+}
+.desc_oswaldo{
+    position: absolute;
+    left: 63%;
+    top: 483%;
+    font-size: 40px;
+    font-weight: bold;
+}
+.desc_f5{
+    position: absolute;
+    left: 66%;
+    top: 487%;
+    font-size: 40px;
+}
+
+
+
 .circle_vinicius{
     background: #90AE6E;
     border-radius: 50%;
     width: 300px;
     height: 300px;
     position: absolute;
-    left: 80%;
+    left: 63%;
     top: 458%;
     display: flex;
     justify-content: center;
@@ -113,17 +148,18 @@
             -5px 0 rgb(177, 178, 177);
 }
 
-
 .desc_vinicius{
     position: absolute;
-    left: 80%;
+    left: 83%;
     top: 483%;
     font-size: 40px;
     font-weight: bold;
 }
 .desc_f4{
     position: absolute;
-    left: 83%;
+    left: 86%;
     top: 487%;
     font-size: 40px;
 }
+
+

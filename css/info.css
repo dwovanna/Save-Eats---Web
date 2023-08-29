@@ -7,7 +7,7 @@
     font-size: 70px;
     position: absolute;
     top: 123%;
-    left: 18%;
+    left: 22%;
     color: aliceblue;
     font-family: 'Nunito Sans', sans-serif;
 }
@@ -15,7 +15,7 @@
     font-size: 70px;
     position: absolute;
     top: 130%;
-    left: 34%;
+    left: 39%;
     color: #1B470F;
     font-family: 'Nunito Sans', sans-serif;
     font-weight: bold;
@@ -34,7 +34,7 @@
     font-size: 30px;
     position: absolute;
     top: 162%;
-    left: 01%;
+    left: 02%;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
 }
@@ -62,7 +62,7 @@
 .img_comida{
     position: absolute;
     top: 150%;
-    left: 80%;
+    left: 82%;
     width: 150px;
     height: 150px;
 
@@ -73,7 +73,7 @@
     font-size: 30px;
     position: absolute;
     top: 162%;
-    left: 70%;
+    left: 73%;
     text-align: center;font-family: 'Nunito Sans', sans-serif;
 
 
@@ -89,11 +89,11 @@
 }
 .desc_rosto{
     color: aliceblue;
-    width: 750px;
+    width: 600px;
     font-size: 30px;
     position: absolute;
     top: 193%;
-    left: 01%;
+    left: 05%;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
 
@@ -113,7 +113,7 @@
     font-size: 30px;
     position: absolute;
     top: 193%;
-    left: 39%;
+    left: 40%;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
 
@@ -122,7 +122,7 @@
 .img_familia{
     position: absolute;
     top: 178%;
-    left: 80%;
+    left: 82%;
     width: 150px;
     height: 150px;
 
@@ -133,7 +133,7 @@
     font-size: 30px;
     position: absolute;
     top: 193%;
-    left: 71%;
+    left: 74%;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
 

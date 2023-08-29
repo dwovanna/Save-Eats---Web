@@ -19,7 +19,7 @@
 }
 .desc_copy{
     position: absolute;
-    left: 27%;
+    left: 34%;
     top: 535%;
     font-size: 35px;
     background-color: #90AE6E;
@@ -28,7 +28,7 @@
 }
 .home_footer{
     position: absolute;
-    left: 25%;
+    left: 29%;
     top: 522%;
     font-size: 40px;
     color: aliceblue;
@@ -36,7 +36,7 @@
 }
 .info_footer{
     position: absolute;
-    left: 34%;
+    left: 39%;
     top: 522%;
     font-size: 40px;
     color: aliceblue;
@@ -44,7 +44,7 @@
 }
 .sobre_footer{
     position: absolute;
-    left: 48%;
+    left: 52%;
     top: 522%;
     font-size: 40px;
     color: aliceblue;
@@ -52,7 +52,7 @@
 }
 .contatos_footer{
     position: absolute;
-    left: 60%;
+    left: 64%;
     top: 522%;
     font-size: 40px;
     color: aliceblue;

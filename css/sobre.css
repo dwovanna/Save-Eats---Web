@@ -1,11 +1,11 @@
 .sobre-section{
     height: 100vh;
-    background-color: #D5D5D5;
+    background-color: #ffffff;
 
 }
 .img_panela{
     position: absolute;
-    left: 42%;
+    left: 49.5%;
     top: 200%;
     width: 1300px;
     height: 1800px;
@@ -13,19 +13,19 @@
 .title_sobre{
     font-size: 70px;
     position: absolute;
-    top: 245%;
-    left: 05%;
+    top: 240%;
+    left: 07%;
     color: #1B470F;
     font-family: 'Nunito Sans', sans-serif;
     font-weight: bold;
 }
 .desc_sobre{
     color: #3F3F3F;
-    width: 1130px;
-    font-size: 40px;
+    width: 1200px;
+    font-size: 45px;
     position: absolute;
-    top: 260%;
-    left: 04%;
+    top: 255%;
+    left: 05%;
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
 }
