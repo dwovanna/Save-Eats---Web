@@ -1,0 +1,175 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+main{
+    width: 100vw;
+    height: 90vh;
+}
+
+header{
+    width: 100%;
+    height: 10vh;
+    display: grid;
+    grid-template-rows: 3fr 3fr;
+}
+
+.barra {
+    display: flex;
+    align-items: center;
+    padding-left: 7rem;
+    background-color: #90AE6E;
+}
+
+.barra2 {
+    display: flex;
+    align-items: center;
+    padding-left: 7rem;
+}
+
+.descricao_save{
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.descricao_ajuda{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.barrinha{
+    background-color: black;
+    height: 1%;
+    width: 2%;
+    transform: rotate(90deg);
+}
+
+.linha{
+    background-color: black;
+    height: .1%;
+    width: 100%;
+
+}
+
+.descricao_consumidor{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #90AE6E;
+    color: #ffff;
+    border-radius: 18px;
+    width: 10rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.title{
+    font-size: 50px;
+    display: flex;
+    padding-left: 7rem;
+    padding-top: 5rem;
+}
+
+.subtitulo{
+    font-size: 50px;
+    display: flex;
+    padding-left: 7rem;
+    padding-top: 5rem;
+    font-weight: bold;
+
+}
+
+.fa-question-circle{
+    font-size: 3rem;
+    color: #000000;
+    padding-left: 7rem;
+    padding-top: 7rem;
+}
+
+.interrogacoes{
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.perguntas {
+    width: 65rem;
+    height: 12rem;
+    border-bottom: .5px solid #000000;
+
+    
+}
+
+.primeira-perg{
+    font-size: 180%;
+    padding-left: 2rem;
+}
+
+.segunda-perg{
+    font-size: 180%;
+    padding-left: 2rem;
+
+}
+
+.terceira-perg{
+    font-size: 180%;
+    padding-left: 2rem;
+
+}
+
+.quarta-perg{
+    font-size: 180%;
+    padding-left: 2rem;
+
+}
+
+.quinta-perg{
+    font-size: 180%;
+    padding-left: 2rem;
+
+}
+
+.fa-chevron-right{
+    font-size: 2.5rem;
+    padding-left: 30rem;
+    align-items: center;
+    
+}
+
+.linha2{
+    background-color: #000000;
+    height: 10%;
+    width: 50%;
+    padding-top: 0.04%;
+    padding-left: 7rem;
+
+}
+
+.img_padeiro{
+    padding-left: 90rem;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.img_central{
+    width: 70rem;
+    padding-left: 40rem;
+
+}

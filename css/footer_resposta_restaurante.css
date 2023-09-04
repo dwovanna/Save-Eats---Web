@@ -1,0 +1,217 @@
+footer{
+    width: 100vw;
+    height: 100vh;
+    background-color: #90AE6E;
+        font-family: 'Nunito Sans', sans-serif;
+    
+}
+
+.save_footer{
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffff;
+    display: flex;
+    padding-left: 8rem;
+    padding-top: 12rem
+    
+}
+
+.empresa_footer{
+    font-size: 40px;
+    font-weight: bold;
+    color: #ffff;
+    display: flex;
+    padding-left: 8rem;
+    padding-top: 9rem;
+    gap: 5rem;
+   
+
+}
+
+.quem_footer{
+    font-size: 30px;
+    color: #ffff;
+    display: flex;
+    padding-left: 8rem;
+    padding-top: 3rem;
+  
+    
+}
+
+.desen_footer{
+    font-size: 30px;
+    color: #ffff;
+    display: flex;
+    padding-left: 8rem;
+    padding-top: 3rem;
+    
+}
+
+.img_face{
+    display: flex;
+    padding-left: 8rem;
+    width: 13rem;
+    height: 15rem;
+    padding-top: 11rem;
+    color: #ffff;
+}
+
+.fa-square-facebook{
+    font-size: 4rem;
+    color: #ffff;
+    padding-left: 8rem;
+    padding-top: 10rem;
+}
+
+.fa-twitter{
+    font-size: 4rem;
+    color: #ffff;
+    padding-left: 8rem;
+    padding-top: 10rem;
+
+}
+
+.fa-youtube{
+    font-size: 4rem;
+    color: #ffff;
+    padding-left: 8rem;
+    padding-top: 10rem;
+
+}
+
+.fa-linkedin{
+    font-size: 4rem;
+    color: #ffff;
+    padding-left: 8rem;
+    padding-top: 10rem;
+}
+
+.fa-instagram{
+    font-size: 4rem;
+    color: #ffff;
+    padding-left: 8rem;
+    padding-top: 10rem;
+    
+}
+
+.playstore{
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+    border: 1.5px solid #ffff;
+    border-radius: 5px;
+    width: 8.5vw;
+    height: 5vh;
+    gap: 4%;
+    padding-left: .5%;
+    margin-top: 6.5%;
+}
+
+.playstore img{
+    justify-self: center;
+    height: 4.5vh;
+}
+
+.text_container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2%;
+    color: #ffff;
+}
+
+.get_it_on{
+    font-size: .9rem;
+}
+
+.google_play_text{
+    font-size: 1.5rem;
+}
+
+.appstore{
+    margin-left: 5%;
+    display: flex;
+    flex-direction: row;
+    border: 1.5px solid #ffff;
+    border-radius: 5px;
+    width: 8.5vw;
+    height: 5vh;
+    gap: 6%;
+    padding-left: .5%;
+    margin-top: 6.5%;
+
+
+}
+
+.fa-apple{
+    justify-self: center;
+    height: 4.5vh;
+    color: #ffff;
+    font-size: 4rem;
+    
+
+}
+
+.text_container2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2%;
+    color: #ffff;
+
+}
+
+.download_on_the{
+    font-size: .9rem;
+
+}
+
+.app_store_text{
+    font-size: 1.5rem;
+}
+
+.app_container{
+    display: flex;
+    flex-direction: row;
+}
+
+.copy{
+    color: #ffff;
+    font-size: 1.5rem;
+    display: flex;
+    padding-left: 8rem;
+    padding-top: 8rem;
+    
+}
+
+.desc_privacidade{
+    color: #ffff;
+    font-size: 1.5rem;
+    display: flex;
+   
+
+}
+
+.desc_acessibilidade{
+    color: #ffff;
+    font-size: 1.5rem;
+    display: flex;
+  
+}
+
+.desc_termos{
+    color: #ffff;
+    font-size: 1.5rem;
+    display: flex;
+   
+
+}
+
+.descricao_footer{
+    display: flex;
+    flex-direction: row;
+    display: flex;
+    padding-left: 110rem;
+    gap: 12%;
+    
+}

@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.color{
+    
+}
+li {list-style: none;}
+
+main{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.color{
+    background: #91AF6F;
+
+}
+
+
+

@@ -8,18 +8,96 @@
 body{
     width: 100vw;
     height: 100vh;
-
+    font-family: 'Nunito Sans', sans-serif;
 }
-.img_fundo{
+
+main{
     width: 100%;
-    height: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20rem;
+    background-image: url("/img/fundo.perguntas.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    gap: 4rem;
+}
 
-}
 header{
-    background-color: #90AE6E;
-    height: 80px;
+    width: 100%;
+    height: 10vh;
+    display: grid;
+    grid-template-rows: 3fr 3fr;
 }
-.header2{
+
+.um {
+    display: flex;
+    align-items: center;
+    padding-left: 5rem;
+    background-color: #90AE6E;
+}
+
+.dois {
+    display: flex;
+    align-items: center;
+    padding-left: 5rem;
+}
+
+.descricao_save{
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.descricao_ajuda{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 100px;
+    width: 50%;
+    text-align: center;
+}
+
+.descricao{
+    font-size: 45px;
+    line-height: 3;
+}
+.teste {
+    width: 50rem;
+    height: 10rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.quadrado {
+    width: 16rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #ffff;
+    gap: 2rem;
+    font-size: 30px;
+}
+
+.quadrado_segundo {
+    width: 16rem;
+    height: 16rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffff;
+    gap: 1rem;
+    font-size: 30px;
     
+      
+}
+
+img {
+    height: 5rem;
 }

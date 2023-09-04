@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+main{
+    width: 100vw;
+    height: 90vh;
+}
+
+header{
+    width: 100%;
+    height: 10vh;
+    display: grid;
+    grid-template-rows: 3fr 3fr;
+}
+
+.barra {
+    display: flex;
+    align-items: center;
+    padding-left: 7rem;
+    background-color: #90AE6E;
+}
+
+.barra2 {
+    display: flex;
+    align-items: center;
+    padding-left: 7rem;
+}
+
+.descricao_save{
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.descricao_ajuda{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.barrinha{
+    background-color: black;
+    height: 1%;
+    width: 2%;
+    transform: rotate(90deg);
+}
+
+.linha{
+    background-color: black;
+    height: .1%;
+    width: 100%;
+
+}
+
+.descricao_cliente{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #90AE6E;
+    color: #ffff;
+    border-radius: 18px;
+    width: 10rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.title{
+    font-size: 50px;
+    display: flex;
+    padding-left: 7rem;
+    padding-top: 7rem;
+   
+}
+
+.span_resposta{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 30%;
+    padding-left: 7rem;
+    font-size: 2rem
+    
+  }
+
+.texto{
+    display: flex;
+    gap: 5rem;
+    flex-direction: column;
+  }
+
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.img_central{
+    width: 70rem;
+    padding-left: 30rem;
+
+}
