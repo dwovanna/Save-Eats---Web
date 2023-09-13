@@ -17,7 +17,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 20rem;
+    justify-content: center;
     background-image: url("/img/fundo.perguntas.png");
     background-size: cover;
     background-repeat: no-repeat;
@@ -100,4 +100,57 @@ h1{
 
 img {
     height: 5rem;
+}
+
+@media(width: 375px){
+
+.descricao_save{
+    font-size: 15px;
+    text-align: center;
+    padding-left: 60px;
+}
+
+.descricao_ajuda{
+    font-size: 15px;
+    padding-left: 72px;
+}
+
+h1{
+    font-size: 35px;
+    width: 330px;
+}
+
+.descricao{
+    font-size: 27px;
+}
+
+.teste{
+    width: 100%;
+    justify-content: center;
+    gap: 10%;
+}
+
+.quadrado{
+    height: 6rem;
+    width: 100px;
+    font-size: small;
+    gap: 0%;
+}
+
+.quadrado_segundo{
+    width: 100px;
+    height: 6rem;
+    font-size: small;
+    gap: 0%;
+}
+
+.quadrado img{
+    height: 2rem;
+}
+
+.quadrado_segundo img{
+    height: 50px;
+}
+
+
 }

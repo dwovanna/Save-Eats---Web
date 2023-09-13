@@ -139,3 +139,108 @@
 
 
 }
+
+@media(width: 375px){
+
+    .title{
+        font-size: 18px;
+        top: 780px;
+        width: 400px;
+        left: 8px;
+        
+    }
+    .title2{
+        font-size: 20px;
+        top: 810px;
+        left: 95px;
+
+    }
+    .img_globo{
+        width: 45px;
+        height: 45px;
+        top: 880px;
+    }
+    .desc_globo{
+        width: 180px;
+        font-size: 12px;
+        top: 930px;
+        left: 0;
+        color: rgb(255, 255, 255);
+    }
+    .img_money{
+        width: 45px;
+        height: 45px;
+        top: 880px;
+        left: 245px;
+    
+    }
+    .desc_money{
+        width: 150px;
+        font-size: 12px;
+        top: 930px;
+        left: 200px;
+        color: rgb(255, 255, 255);
+
+    }
+    .img_comida{
+        width: 45px;
+        height: 45px;
+        top: 1060px;
+        left: 60px;
+    
+    }
+    .desc_comida{
+        width: 180px;
+        font-size: 12px;
+        top: 1120px;
+        left: 15px;
+        color: rgb(255, 255, 255);
+    
+    }
+    .img_rosto{
+        width: 45px;
+        height: 45px;
+        top: 1060px;
+        left: 250px;
+    
+    }
+    .desc_rosto{
+        width: 165px;
+        font-size: 12px;
+        top: 1120px;
+        left: 200px;
+        color: rgb(255, 255, 255);
+    }
+    .img_planta{
+        width: 45px;
+        height: 45px;
+        top: 1240px;
+        left: 63px;
+    
+    }
+    .desc_planta{
+        width: 180px;
+        font-size: 12px;
+        top: 1310px;
+        left: 12px;
+        color: rgb(255, 255, 255);
+    }
+    
+    .img_familia{
+        width: 45px;
+        height: 45px;
+        top: 1240px;
+        left: 250px;
+    
+    }
+    .desc_familia{
+        width: 165px;
+        font-size: 12px;
+        top: 1310px;
+        left: 200px;
+        color: rgb(255, 255, 255);
+
+    }
+
+
+}

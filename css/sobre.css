@@ -29,3 +29,21 @@
     text-align: center;
     font-family: 'Nunito Sans', sans-serif;
 }
+
+@media(width: 375px){
+    .title_sobre{
+        font-size: 24px;
+        top: 1450px;
+    }
+    .desc_sobre{
+        font-size: 15px;
+        width: 250px;
+        top: 1520px;
+    }
+    .img_panela{
+        left: 15px;
+        top: 1750px;
+        width: 360px;
+        height: 420px;
+    }
+}

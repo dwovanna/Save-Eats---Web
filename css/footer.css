@@ -162,4 +162,100 @@
     font-size: 40px;
 }
 
+@media(width: 375px){
+
+    .title_footer{
+        font-size: 17px;
+        width: 370px;
+        left: 5px;
+    }
+    .circle_carol{
+        width: 80px;
+        height: 80px;
+        left: 20px;
+        top: 455%;
+  
+    }
+    .desc_carol{
+        font-size: 18px;
+        top: 457%;
+        left: 150px;
+    }
+    .desc_f2{
+        font-size: 20px;
+        top: 461%;
+        left: 160px;
+    }
+    
+    .circle_dwovanna{
+        width: 80px;
+        height: 80px;
+        left: 20px;
+        top: 470%;
+    }
+    .desc_dwovanna{
+        font-size: 18px;
+        top: 472%;
+        left: 140px;
+    }
+    .desc_f3{
+        font-size: 20px;
+        top: 476%;
+        left: 160px;
+    }
+    
+    .circle_julia{
+        width: 80px;
+        height: 80px;
+        left: 20px;
+        top: 440%;
+    }
+    .desc_julia{
+        font-size: 18px;
+        top: 442%;
+        left: 150px;
+    
+    }
+    .desc_f1{
+        font-size: 20px;
+        top: 446%;
+        left: 160px;
+    }
+    
+    
+    .circle_oswaldo{
+        width: 80px;
+        height: 80px;
+        left: 20px;
+        top: 485%;
+    }
+    .desc_oswaldo{
+        font-size: 18px;
+        top: 487%;
+        left: 140px;
+    }
+    .desc_f5{
+        font-size: 20px;
+        top: 491%;
+        left: 160px;
+    }
+    
+    .circle_vinicius{
+        width: 80px;
+        height: 80px;
+        left: 20px;
+        top: 499%;
+    }
+    
+    .desc_vinicius{
+        font-size: 18px;
+        top: 501%;
+        left: 140px;
+    }
+    .desc_f4{
+        font-size: 20px;
+        top: 505%;
+        left: 160px;
+    }
+}
 

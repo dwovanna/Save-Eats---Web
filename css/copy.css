@@ -58,3 +58,31 @@
     color: aliceblue;
 
 }
+
+@media(width: 375px){
+    .img_footer{
+        width: 130px;
+        top: 515%;
+    }
+    .desc_copy{
+        font-size: 10px;
+        left: 70px;
+        top: 533%;
+    }
+    .home_footer{
+        font-size: 13px;
+        left: 130px;
+    }
+    .info_footer{
+        font-size: 13px;
+        left: 180px;
+    }
+    .sobre_footer{
+        font-size: 13px;
+        left: 255px;
+    }
+    .contatos_footer{
+        font-size: 12px;
+        left: 320px;
+    }
+}

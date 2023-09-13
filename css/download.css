@@ -86,3 +86,89 @@
     width: 105px;
 
 }
+
+@media(width: 375px){
+    .circle_download{
+        width: 450px;
+        height: 450px;
+    }
+
+    .title_download{
+        font-size: 20px;
+    }
+    .desc_download{
+        font-size: 20px;
+    }
+    .img_app{
+        width: 100px;
+    
+    }
+    .img_play{
+        width: 100px;
+    }
+
+    .img_celular{
+        width: 300px;
+        height: 300px;
+    }
+    .circle_download{
+        width: 300px;
+        height: 320px;
+        top: 2350px;
+        left: 40px;
+
+    }
+    .title_download{
+        font-size: 25px;
+        top: 2200px;
+        left: 70px;
+        width: 300px;
+
+    }
+    .desc_download{
+        font-size: 19px;
+        left: 42px;
+        top: 2250px;
+        width: 280px;
+    }
+    .img_folha1{
+        left: 07%;
+        top: 349%;
+        width: 100px;
+    
+    }
+    .img_folha2{
+        left: 01%;
+        top: 368%;
+        width: 80px;
+       
+    
+    }
+    .img_folha3{
+        left: -2%;
+        top: 384%;
+        width: 40px;
+       
+    
+    }
+    .img_folha4{
+        left: 60%;
+        top: 396%;
+        width: 50px;
+    
+    }
+
+    .img_app{
+        top: 2720px;
+        left: 30%;
+        width: 150px;
+    
+    }
+    .img_play{
+        top: 2780px;
+        left: 30%;
+        width: 150px;
+    }
+
+
+}
